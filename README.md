@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nebula-contrib-nebulagraph-mcp-server-badge.png)](https://mseep.ai/app/nebula-contrib-nebulagraph-mcp-server)
+
 # Model Context Protocol Server for NebulaGraph
 
 
